@@ -35,4 +35,4 @@ This project is a simple Django-based authentication system. It includes feature
 ### **Step 1: Get the Code**
 Download the code by cloning the repository:
 ```bash
-git clone https://github.com/yourusername/django-auth-system.git
+git clone https://github.com/saintbassanaga/AuthService.git
